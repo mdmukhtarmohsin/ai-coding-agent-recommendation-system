@@ -2,7 +2,8 @@
 
 A smart web application that accepts natural language coding task descriptions and recommends the top 3 AI coding agents (GitHub Copilot, Cursor, Replit Ghostwriter, CodeWhisperer, etc.), enhanced with **Gemini AI** for intelligent task understanding and agent recommendation.
 
-![Demo](demo/screenshot-main.png)
+![Demo](demo/1.png)
+![Demo](demo/2.png)
 
 ## ✨ Features
 
