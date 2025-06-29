@@ -1,0 +1,241 @@
+[
+  {
+    "name": "GitHub Copilot",
+    "description": "AI pair programmer that helps you write code faster with contextual suggestions",
+    "features": [
+      "Real-time code suggestions",
+      "Multi-language support",
+      "IDE integration",
+      "Comment-to-code generation",
+      "Code completion",
+      "Refactoring assistance"
+    ],
+    "supported_languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "C++",
+      "C#",
+      "Go",
+      "Ruby",
+      "PHP",
+      "Swift",
+      "Kotlin",
+      "Rust"
+    ],
+    "ideal_use_cases": [
+      "Feature development",
+      "Code completion",
+      "Bug fixing",
+      "Refactoring",
+      "Learning new languages",
+      "Rapid prototyping"
+    ],
+    "pricing": "Free tier available, $10/month for individual, $19/month for business",
+    "website": "https://github.com/features/copilot",
+    "limitations": [
+      "Requires internet connection",
+      "May suggest outdated patterns",
+      "Limited context window"
+    ]
+  },
+  {
+    "name": "Cursor",
+    "description": "AI-first code editor with advanced editing capabilities and codebase understanding",
+    "features": [
+      "Codebase-wide understanding",
+      "Natural language editing",
+      "Multi-file editing",
+      "Chat with codebase",
+      "Inline code generation",
+      "Advanced refactoring"
+    ],
+    "supported_languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "C++",
+      "Go",
+      "Rust",
+      "HTML",
+      "CSS",
+      "React",
+      "Vue"
+    ],
+    "ideal_use_cases": [
+      "Large codebase refactoring",
+      "Complex feature development",
+      "Code exploration",
+      "Architecture changes",
+      "Legacy code modernization",
+      "Performance optimization"
+    ],
+    "pricing": "Free tier available, $20/month for Pro",
+    "website": "https://cursor.sh",
+    "limitations": [
+      "Newer tool with evolving features",
+      "Learning curve for advanced features"
+    ]
+  },
+  {
+    "name": "Replit Ghostwriter",
+    "description": "AI coding assistant integrated into Replit's cloud-based development environment",
+    "features": [
+      "Code generation",
+      "Error debugging",
+      "Code explanation",
+      "Project-aware suggestions",
+      "Real-time collaboration",
+      "Integrated testing"
+    ],
+    "supported_languages": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "C++",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "React",
+      "Flask",
+      "Django"
+    ],
+    "ideal_use_cases": [
+      "Learning programming",
+      "Quick prototyping",
+      "Educational projects",
+      "Collaborative coding",
+      "Web development",
+      "Script automation"
+    ],
+    "pricing": "Free tier available, $7/month for Hacker plan, $25/month for Pro",
+    "website": "https://replit.com",
+    "limitations": [
+      "Cloud-based only",
+      "Limited offline capabilities",
+      "Performance depends on internet"
+    ]
+  },
+  {
+    "name": "Amazon CodeWhisperer",
+    "description": "ML-powered coding companion that generates code suggestions based on comments and existing code",
+    "features": [
+      "Real-time suggestions",
+      "Security scanning",
+      "Reference tracking",
+      "AWS service integration",
+      "Enterprise security",
+      "Bias detection"
+    ],
+    "supported_languages": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "C#",
+      "Go",
+      "Rust",
+      "PHP",
+      "Ruby",
+      "Kotlin",
+      "C++",
+      "Shell scripting"
+    ],
+    "ideal_use_cases": [
+      "AWS cloud development",
+      "Enterprise applications",
+      "Security-focused development",
+      "Backend development",
+      "DevOps automation",
+      "Infrastructure as code"
+    ],
+    "pricing": "Free for individual use, Professional tier available for teams",
+    "website": "https://aws.amazon.com/codewhisperer/",
+    "limitations": [
+      "Best with AWS ecosystem",
+      "Learning curve for non-AWS users"
+    ]
+  },
+  {
+    "name": "Tabnine",
+    "description": "AI code completion tool that runs locally or in the cloud with privacy focus",
+    "features": [
+      "Local AI models",
+      "Privacy-first approach",
+      "Team training",
+      "Custom models",
+      "IDE integration",
+      "Offline capabilities"
+    ],
+    "supported_languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "C++",
+      "C#",
+      "PHP",
+      "Go",
+      "Ruby",
+      "Rust",
+      "Swift",
+      "Kotlin"
+    ],
+    "ideal_use_cases": [
+      "Privacy-sensitive projects",
+      "Team-specific coding patterns",
+      "Offline development",
+      "Custom domain training",
+      "Enterprise security requirements",
+      "Local development"
+    ],
+    "pricing": "Free tier available, $12/month for Pro, Enterprise pricing available",
+    "website": "https://www.tabnine.com",
+    "limitations": [
+      "Local models may be less powerful",
+      "Requires setup for team features"
+    ]
+  },
+  {
+    "name": "Codeium",
+    "description": "Free AI-powered code acceleration toolkit with chat, search, and autocomplete",
+    "features": [
+      "Unlimited autocomplete",
+      "AI chat interface",
+      "Codebase search",
+      "Multi-language support",
+      "Privacy controls",
+      "Team collaboration"
+    ],
+    "supported_languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "C++",
+      "Go",
+      "Rust",
+      "PHP",
+      "Ruby",
+      "Swift",
+      "Kotlin",
+      "C#"
+    ],
+    "ideal_use_cases": [
+      "Budget-conscious development",
+      "Small to medium teams",
+      "Learning and education",
+      "Open source projects",
+      "Rapid development",
+      "Code exploration"
+    ],
+    "pricing": "Free for individuals, Teams and Enterprise plans available",
+    "website": "https://codeium.com",
+    "limitations": [
+      "Newer in the market",
+      "Enterprise features still developing"
+    ]
+  }
+]
